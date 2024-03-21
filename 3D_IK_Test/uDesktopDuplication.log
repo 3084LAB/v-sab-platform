@@ -1,0 +1,45 @@
+[uDD::Log][2024-03-13 17:52:45] Start
+[uDD::Log][2024-03-13 17:52:45] OS Version    : 10.0
+[uDD::Log][2024-03-13 17:52:45] Build Number  : 19045
+[uDD::Log][2024-03-13 17:52:45] Service Pack  : 
+[uDD::Log][2024-03-13 17:52:45] Graphics Card [0] : NVIDIA GeForce RTX 3070
+[uDD::Log][2024-03-13 17:52:45]   > Monitor[0] : \\.\DISPLAY6
+[uDD::Log][2024-03-13 17:52:45]   > Monitor[1] : \\.\DISPLAY7
+[uDD::Log][2024-03-13 17:52:45]   > Monitor[2] : \\.\DISPLAY8
+[uDD::Log][2024-03-13 17:52:45]   > Monitor[3] : \\.\DISPLAY12
+[uDD::Log][2024-03-13 17:52:45] Graphics Card [1] : NVIDIA GeForce GT 1030
+[uDD::Log][2024-03-13 17:52:45]   > Monitor[0] : \\.\DISPLAY10
+[uDD::Log][2024-03-13 17:52:45] Graphics Card [2] : NVIDIA GeForce RTX 3070
+[uDD::Log][2024-03-13 17:52:45] Graphics Card [3] : Microsoft Basic Render Driver
+[uDD::Log][2024-03-13 17:52:45] Monitor::Initialized() =>
+[uDD::Log][2024-03-13 17:52:45]     ID    : 0
+[uDD::Log][2024-03-13 17:52:45]     Size  : (3840, 2160)
+[uDD::Log][2024-03-13 17:52:45]     DPI   : (139, 139)
+[uDD::Log][2024-03-13 17:52:45]     Rot   : Landscape
+[uDD::Log][2024-03-13 17:52:45] Duplicator::Initialize() => OK.
+[uDD::Log][2024-03-13 17:52:45] Monitor::Initialized() =>
+[uDD::Log][2024-03-13 17:52:45]     ID    : 1
+[uDD::Log][2024-03-13 17:52:45]     Size  : (3840, 2160)
+[uDD::Log][2024-03-13 17:52:45]     DPI   : (139, 139)
+[uDD::Log][2024-03-13 17:52:45]     Rot   : Landscape
+[uDD::Log][2024-03-13 17:52:45] Duplicator::Initialize() => OK.
+[uDD::Log][2024-03-13 17:52:45] Monitor::Initialized() =>
+[uDD::Log][2024-03-13 17:52:45]     ID    : 2
+[uDD::Log][2024-03-13 17:52:45]     Size  : (1920, 1080)
+[uDD::Log][2024-03-13 17:52:45]     DPI   : (95, 95)
+[uDD::Log][2024-03-13 17:52:45]     Rot   : Landscape
+[uDD::Log][2024-03-13 17:52:45] Duplicator::Initialize() => OK.
+[uDD::Log][2024-03-13 17:52:45] Monitor::Initialized() =>
+[uDD::Log][2024-03-13 17:52:45]     ID    : 3
+[uDD::Log][2024-03-13 17:52:45]     Size  : (1366, 768)
+[uDD::Log][2024-03-13 17:52:45]     DPI   : (100, 101)
+[uDD::Log][2024-03-13 17:52:45]     Rot   : Landscape
+[uDD::Log][2024-03-13 17:52:45] Duplicator::Initialize() => OK.
+[uDD::Log][2024-03-13 17:52:45] Monitor::Initialized() =>
+[uDD::Log][2024-03-13 17:52:45]     ID    : 4
+[uDD::Log][2024-03-13 17:52:45]     Size  : (1920, 1080)
+[uDD::Log][2024-03-13 17:52:45]     DPI   : (92, 92)
+[uDD::Log][2024-03-13 17:52:45]     Rot   : Landscape
+[uDD::Log][2024-03-13 17:52:45] Duplicator::Initialize() => OK.
+[uDD::Err][2024-03-13 17:52:45] Duplicator::CheckUnityAdapter() => The adapter is not same as Unity, and now this case is not supported.
+[uDD::Log][2024-03-13 17:55:11] Stop
